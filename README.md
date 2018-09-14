@@ -1,4 +1,6 @@
-# data-science-references
+# Data Science References
+
+A list of references I've found useful in my path to becoming a better and more well-rounded data scientist. 
 
 ## Timeseries Forecasting / Dynamical Systems Analysis
 
