@@ -5,5 +5,8 @@ A list of references I've found useful in my path to becoming a better and more 
 ## Timeseries Forecasting / Non-Linear Dynamical Systems Analysis
 
 ### Phase Space
-- [https://en.wikipedia.org/wiki/Takens%27s_theorem] (Time-Delay Embedding Theorem)
-- [http://www.agnld.uni-potsdam.de/~marwan/matlab-tutorials/html/phasespace.html](Phase Space Tutorial)
+- [Time-Delay Embedding Theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem)
+- [Phase Space Tutorial](http://www.agnld.uni-potsdam.de/~marwan/matlab-tutorials/html/phasespace.html)
+
+### Filtering / Smoothing
+- [Bayesian Filters Python Digital Book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
