@@ -10,3 +10,4 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### Filtering / Smoothing
 - [Bayesian Filters Python Digital Book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+- [Particle Files + Unscented Kalman](https://perso.uclouvain.be/michel.verleysen/papers/ffm07sd2.pdf)
