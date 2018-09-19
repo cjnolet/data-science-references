@@ -16,3 +16,6 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### Siamese Triplet Networks
 - [Powerpoint Deck](https://filebox.ece.vt.edu/~jbhuang/teaching/ece6554/sp17/lectures/Lecture_08_Siamese_Triplet_Networks.pdf)
+
+### Skipgram
+- [Kernel PCA + Skipgram](https://medium.com/@vishwanigupta/kpca-skip-gram-model-improving-word-embedding-a6a0cb7aad49)
