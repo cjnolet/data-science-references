@@ -10,6 +10,7 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### Dynamic Time Warping
 - [Timeseries Similarity](http://www.maths.manchester.ac.uk/~mbbx2se2/Docs/Dynamic_time_warping(Steven_Elsworth).pdf)
+- [Tutorial](https://sflscientific.com/data-science-blog/2016/6/3/dynamic-time-warping-time-series-analysis-ii)
 
 ### Filtering / Smoothing
 - [Bayesian Filters Python Digital Book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
