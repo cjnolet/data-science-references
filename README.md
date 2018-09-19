@@ -7,6 +7,7 @@ A list of references I've found useful in my path to becoming a better and more 
 ### Phase Space
 - [Time-Delay Embedding Theorem](https://en.wikipedia.org/wiki/Takens%27s_theorem)
 - [Phase Space Tutorial](http://www.agnld.uni-potsdam.de/~marwan/matlab-tutorials/html/phasespace.html)
+- [Dynamic Time Warping](http://www.maths.manchester.ac.uk/~mbbx2se2/Docs/Dynamic_time_warping(Steven_Elsworth).pdf)
 
 ### Filtering / Smoothing
 - [Bayesian Filters Python Digital Book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
