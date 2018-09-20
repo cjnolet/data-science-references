@@ -16,7 +16,7 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Bayesian Filters Python Digital Book](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Particle Files + Unscented Kalman](https://perso.uclouvain.be/michel.verleysen/papers/ffm07sd2.pdf)
 
-## Unsupervised Representation Learning / Metric Learning
+## Feature Learning / Metric Learning, Random Projections, & Embeddings
 
 ### Siamese Triplet Networks
 - [Powerpoint Deck](https://filebox.ece.vt.edu/~jbhuang/teaching/ece6554/sp17/lectures/Lecture_08_Siamese_Triplet_Networks.pdf)
@@ -25,3 +25,6 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Kernel PCA + Skipgram](https://medium.com/@vishwanigupta/kpca-skip-gram-model-improving-word-embedding-a6a0cb7aad49)
 - [PPMI for Similarity](https://www.kaggle.com/gabrielaltay/word-vectors-from-pmi-matrix)
 - [Better Understanding Predict & Count Models](https://arxiv.org/pdf/1511.02024.pdf)
+
+### Kernels
+- [Random Projections for Kernel Machines](https://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf)
