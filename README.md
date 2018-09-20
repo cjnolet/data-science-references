@@ -24,3 +24,4 @@ A list of references I've found useful in my path to becoming a better and more 
 ### Skipgram
 - [Kernel PCA + Skipgram](https://medium.com/@vishwanigupta/kpca-skip-gram-model-improving-word-embedding-a6a0cb7aad49)
 - [PPMI for Similarity](https://www.kaggle.com/gabrielaltay/word-vectors-from-pmi-matrix)
+- [Better Understanding Predict & Count Models](https://arxiv.org/pdf/1511.02024.pdf)
