@@ -31,3 +31,6 @@ A list of references I've found useful in my path to becoming a better and more 
 ### Random Projections
 - [Random Projections for Kernel Machines](https://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf)
 - [Good Overview of Random Projections](https://www.cs.waikato.ac.nz/~bobd/ECML_Tutorial/ECML_handouts.pdf)
+
+### Collaborative Filtering / LSA
+- [Comparison of PLSI & NMF](https://pdfs.semanticscholar.org/0062/b9ff8522498b34f467e36af218d87fcf5d9a.pdf)
