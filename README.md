@@ -36,3 +36,8 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### Latent Semantic Analysis
 - [Comparison of PLSI & NMF](https://pdfs.semanticscholar.org/0062/b9ff8522498b34f467e36af218d87fcf5d9a.pdf)
+
+
+## Association Rule Mining
+
+- [Deciphering Association Rule Mining](https://medium.com/data-science-group-iitr/association-rule-mining-deciphered-d818f1215b06)
