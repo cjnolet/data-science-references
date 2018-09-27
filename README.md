@@ -32,14 +32,19 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Random Projections for Kernel Machines](https://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf)
 - [Good Overview of Random Projections](https://www.cs.waikato.ac.nz/~bobd/ECML_Tutorial/ECML_handouts.pdf)
 
-## Latent Factor Models, Embeddings, Collaborative Filtering
+### Latent Factor Models, Embeddings, Collaborative Filtering
 
-### Latent Semantic Analysis
+#### Latent Semantic Analysis
 - [Comparison of PLSI & NMF](https://pdfs.semanticscholar.org/0062/b9ff8522498b34f467e36af218d87fcf5d9a.pdf)
 
-### Generative Models
+#### Generative Models
 - [Intuitively Understanding VAE's](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 - [Using MMD w/ Kernel Mean Embeddings for VAEs](https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/)
+- [Information Autoencoder Family (proof that primal problem of VAEs and GANs is mutual information)](http://auai.org/uai2018/proceedings/papers/361.pdf)
+- [Autoencoding Beyond Pixels. Using a Learned Similarity Metric](https://arxiv.org/pdf/1512.09300.pdf)
+
+#### Semi-supervised Data Labeling
+- [Cluster-then-Label](https://www.nature.com/articles/s41598-018-24876-0)
 
 
 ## Association Rule Mining
