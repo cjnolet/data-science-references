@@ -31,6 +31,7 @@ A list of references I've found useful in my path to becoming a better and more 
 ### Random Projections
 - [Random Projections for Kernel Machines](https://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf)
 - [Good Overview of Random Projections](https://www.cs.waikato.ac.nz/~bobd/ECML_Tutorial/ECML_handouts.pdf)
+- [Nonlinear Random Projections (with Kernels)](https://www.cs.toronto.edu/~duvenaud/talks/random-kitchen-sinks-tutorial.pdf)
 
 ### Latent Factor Models, Embeddings, Collaborative Filtering
 
