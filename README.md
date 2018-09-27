@@ -39,6 +39,7 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### Generative Models
 - [Intuitively Understanding VAE's](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+- [Using MMD w/ Kernel Mean Embeddings for VAEs](https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/)
 
 
 ## Association Rule Mining
