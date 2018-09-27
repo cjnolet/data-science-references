@@ -46,6 +46,10 @@ A list of references I've found useful in my path to becoming a better and more 
 #### Semi-supervised Data Labeling
 - [Cluster-then-Label](https://www.nature.com/articles/s41598-018-24876-0)
 
+## Reproducing Kernel Hilbert Spaces
+
+### Kernel Clustering
+- [Kernel Clustering](http://www.cse.msu.edu/~cse902/S14/ppt/kernelClustering.pdf)
 
 ## Association Rule Mining
 
