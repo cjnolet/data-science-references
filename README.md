@@ -50,6 +50,9 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ## Reproducing Kernel Hilbert Spaces
 
+### General Kernels
+- [Gram Matrix](http://math.uga.edu/~rothstei/6120Spring2008/GramMatrix20080325.pdf)
+
 ### Kernel Clustering
 - [Kernel Clustering](http://www.cse.msu.edu/~cse902/S14/ppt/kernelClustering.pdf)
 
