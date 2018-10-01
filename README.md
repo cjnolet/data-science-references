@@ -52,6 +52,7 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### General Kernels
 - [Gram Matrix](http://math.uga.edu/~rothstei/6120Spring2008/GramMatrix20080325.pdf)
+- [MMD Two Stample Testing](http://shogun-toolbox.org/notebook/latest/mmd_two_sample_testing.html)
 
 ### Kernel Clustering
 - [Kernel Clustering](http://www.cse.msu.edu/~cse902/S14/ppt/kernelClustering.pdf)
