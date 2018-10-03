@@ -30,6 +30,7 @@ A list of references I've found useful in my path to becoming a better and more 
 
 ### Stochastic Processes / Mixture Models
 - [Indian Buffet Mixture Models for Clustering](http://www.robots.ox.ac.uk/~davidc/pubs/mt2015_yy.pdf)
+- [Indian Buffet & Infinite Mixture Models](https://www-users.cs.umn.edu/~baner029/Teaching/Fall07/slides/IBP.pdf)
 
 ## Dimensionality Reduction
 
