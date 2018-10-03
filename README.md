@@ -26,6 +26,11 @@ A list of references I've found useful in my path to becoming a better and more 
 - [PPMI for Similarity](https://www.kaggle.com/gabrielaltay/word-vectors-from-pmi-matrix)
 - [Better Understanding Predict & Count Models](https://arxiv.org/pdf/1511.02024.pdf)
 
+## Unsupervised Learning / Clustering
+
+### Stochastic Processes / Mixture Models
+- [Indian Buffet Mixture Models for Clustering](http://www.robots.ox.ac.uk/~davidc/pubs/mt2015_yy.pdf)
+
 ## Dimensionality Reduction
 
 ### Random Projections
