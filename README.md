@@ -68,6 +68,8 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Monte-Carlo](https://www.kth.se/social/files/58b941d5f276542843812288/RL04-Monte-Carlo.pdf)
 - [Reinforcement Learning & Particle Filters](https://ieeexplore.ieee.org/document/6804269)
 - [Great Overview](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14)
+- [Epsilon Greedy](https://imaddabbura.github.io/blog/data%20science/2018/03/31/epsilon-Greedy-Algorithm.html)
+- [Temporal Difference](https://web.stanford.edu/group/pdplab/pdphandbook/handbookch10.html)
 
 
 ## Association Rule Mining
