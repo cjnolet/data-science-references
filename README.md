@@ -70,6 +70,7 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Great Overview](https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14)
 - [Epsilon Greedy](https://imaddabbura.github.io/blog/data%20science/2018/03/31/epsilon-Greedy-Algorithm.html)
 - [Temporal Difference](https://web.stanford.edu/group/pdplab/pdphandbook/handbookch10.html)
+- [Data structure for Markov Processes](http://web.cs.iastate.edu/~asminer/Site2/Pdfs/twosided.pdf)
 
 
 ## Association Rule Mining
