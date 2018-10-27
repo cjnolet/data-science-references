@@ -33,6 +33,7 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Indian Buffet & Infinite Mixture Models](https://www-users.cs.umn.edu/~baner029/Teaching/Fall07/slides/IBP.pdf)
 - [Dirichlet Processes & Infinite Mixture Models](http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/)
 - [de Finetti's Theorem](https://en.wikipedia.org/wiki/De_Finetti's_theorem)
+- [IBP - Scalable Inference](https://pdfs.semanticscholar.org/54f4/42c7fa4603f1814ebd8eba912a00dceb5cb2.pdf)
 
 ## Dimensionality Reduction
 
