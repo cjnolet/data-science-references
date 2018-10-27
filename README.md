@@ -41,7 +41,10 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Good Overview of Random Projections](https://www.cs.waikato.ac.nz/~bobd/ECML_Tutorial/ECML_handouts.pdf)
 - [Nonlinear Random Projections (with Kernels)](https://www.cs.toronto.edu/~duvenaud/talks/random-kitchen-sinks-tutorial.pdf)
 
-### Latent Factor Models, Embeddings, Collaborative Filtering
+### Latent Factor Models, Embeddings
+
+#### Collaborative Filtering
+- [Compressed Sensing for Collaborative Filterin](https://arxiv.org/abs/1505.01621)
 
 #### Latent Semantic Analysis
 - [Comparison of PLSI & NMF](https://pdfs.semanticscholar.org/0062/b9ff8522498b34f467e36af218d87fcf5d9a.pdf)
