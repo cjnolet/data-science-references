@@ -34,6 +34,7 @@ A list of references I've found useful in my path to becoming a better and more 
 - [Dirichlet Processes & Infinite Mixture Models](http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/)
 - [de Finetti's Theorem](https://en.wikipedia.org/wiki/De_Finetti's_theorem)
 - [IBP - Scalable Inference](https://pdfs.semanticscholar.org/54f4/42c7fa4603f1814ebd8eba912a00dceb5cb2.pdf)
+- [PGM - Latent Feature Model Notes](https://www.cs.cmu.edu/~epxing/Class/10708-14/scribe_notes/scribe_note_lecture21.pdf)
 
 ## Dimensionality Reduction
 
