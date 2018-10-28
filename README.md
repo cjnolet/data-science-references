@@ -37,6 +37,7 @@ A list of references I've found useful in my path to becoming a better and more 
 - [PGM - Latent Feature Model Notes](https://www.cs.cmu.edu/~epxing/Class/10708-14/scribe_notes/scribe_note_lecture21.pdf)
 
 ## Dimensionality Reduction
+- [TED talk on Mathematics, Representations, and Understanding](https://www.youtube.com/watch?v=ZQElzjCsl9o)
 
 ### Random Projections
 - [Random Projections for Kernel Machines](https://www.robots.ox.ac.uk/~vgg/rg/papers/randomfeatures.pdf)
@@ -46,7 +47,7 @@ A list of references I've found useful in my path to becoming a better and more 
 ### Latent Factor Models, Embeddings
 
 #### Collaborative Filtering
-- [Compressed Sensing for Collaborative Filterin](https://arxiv.org/abs/1505.01621)
+- [Compressed Sensing for Collaborative Filtering](https://arxiv.org/abs/1505.01621)
 
 #### Latent Semantic Analysis
 - [Comparison of PLSI & NMF](https://pdfs.semanticscholar.org/0062/b9ff8522498b34f467e36af218d87fcf5d9a.pdf)
