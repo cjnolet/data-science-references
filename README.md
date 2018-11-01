@@ -62,7 +62,11 @@ A list of references I've found useful in my path to becoming a better and more 
 #### Semi-supervised Data Labeling
 - [Cluster-then-Label](https://www.nature.com/articles/s41598-018-24876-0)
 
-## Reproducing Kernel Hilbert Spaces
+## Kernels & RKHS
+
+- [Good Introduction to RKHS](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/7.pdf)
+- [Compositional Kernel Machines](https://homes.cs.washington.edu/~pedrod/papers/iclr17.pdf)
+- [Duality between Neural Nets and Compositional Kernels](https://arxiv.org/pdf/1602.05897.pdf)
 
 ### General Kernels
 - [Gram Matrix](http://math.uga.edu/~rothstei/6120Spring2008/GramMatrix20080325.pdf)
